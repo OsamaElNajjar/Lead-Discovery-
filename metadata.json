@@ -1,0 +1,5 @@
+{
+  "name": "BOND",
+  "description": "AI-powered lead generation tool for UAE marketing agencies. Finds businesses with low ratings for high-conversion outreach.",
+  "requestFramePermissions": ["geolocation"]
+}
